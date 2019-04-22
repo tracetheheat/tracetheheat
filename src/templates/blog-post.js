@@ -33,6 +33,7 @@ class BlogPostTemplate extends React.Component {
           }}
         />
         <Bio />
+        <JustComments />
 
         <ul
           style={{
@@ -60,6 +61,28 @@ class BlogPostTemplate extends React.Component {
         </ul>
       </Layout>
     )
+  }
+}
+
+class JustComments extends React.Component {
+  constructor(...args) {
+    super(...args)
+    this.ref = React.createRef()
+  }
+  render() {
+    return (
+      <div
+        ref={this.ref}
+        className="just-comments"
+        data-apikey="023369bb-e4e1-4596-bdcb-ddb5a5c681c2Y"
+      />
+    )
+  }
+  componentDidMount() {
+    const s = document.createElement('script')
+    s.src = '//just-comments.com/w.js'
+    s.setAttribute('data-timestamp', +new Date())
+    this.ref.current.appendChild(s)
   }
 }
 
