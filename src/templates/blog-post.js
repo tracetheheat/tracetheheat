@@ -34,6 +34,20 @@ class BlogPostTemplate extends React.Component {
         />
         <Bio />
         <JustComments />
+        
+        <p></p>
+          <p>Don't wanna miss a single run? <b>Subscribe</b> and keep up to date!</p>
+          <form 
+          name="contact"
+          method="post"
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
+          >
+          
+          <input name="name" placeholder="Your Name" type="text" />
+          <input name="email" placeholder="your@email.com" type="email" />
+          <button>Send</button>
+          </form>
 
         <ul
           style={{
