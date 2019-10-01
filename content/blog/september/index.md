@@ -1,5 +1,5 @@
 ---
-title: Call it a month - August (10/12)
+title: Call it a month - September (10/12)
 date: "2019-10-01"
 ---
 
