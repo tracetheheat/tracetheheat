@@ -3,7 +3,7 @@ title: Call it a month - September (10/12)
 date: "2019-10-01"
 ---
 
-> The big DAY is comming! 🏃‍♂️ 
+> The big DAY is coming! 🏃‍♂️ 
 
 Even though I did not beat any PB this month, September was a good one! With a small drop in temperature I've enjoyed running my long runs at faster pace while being able to stay in the same fitness zone. This fact help me with my mind setting.
 
