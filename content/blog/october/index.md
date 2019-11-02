@@ -55,4 +55,4 @@ I've once read that good marathon is the one, where you could see the tiny littl
 
 Anyway as you could see, I didn't stop running after reaching my goal. With a few recovery weeks, I'm now already back in shape, enjoying autumn perfect weather for running and thinking about to what I should run into the upcoming season.
 
-![October](October.png)
+![October](october.png)
