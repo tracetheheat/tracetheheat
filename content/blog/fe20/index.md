@@ -14,10 +14,10 @@ I know, it's pretty to see how the mileage is filling in the bank or to edit new
 
 Now, at the start of the new term, I could easily say that ***it doesn't interfere at all***. Moreover, it's welcomed ***refreshment*** during the day helping me to
 
-    - *recharge my battery*
-    - *shake off my duties*
-    - *sort out thoughts concerning my "PhD issues"* (but hey, only sometimes when the ideas are keen enough to pop up during the running, otherwise I'm just muted or thinking about dinner)
-    - *divide the working part of the day from leisure*
+- recharge my battery
+- shake off my duties
+- sort out thoughts concerning my "PhD issues" (but hey, only sometimes when the ideas are keen enough to pop up during the running, otherwise I'm just muted or thinking about dinner)
+- divide the working part of the day from leisure
 
 Running is thus one of the ***stabile element*** I'm managing my other tasks according to.
 
