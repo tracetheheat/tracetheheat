@@ -31,7 +31,7 @@ function Bio() {
               }}
             />
             <p>
-              Blog about running by <strong>{author}</strong>, based in Cracow and occasionally some other running too.
+              Blog about running by <a href={`http://straubd.me/`}>Daniel Straub</a>, based in Cracow and occasionally some other running too.
               
               {` `}
               <a href={`https://www.strava.com/athletes/straubd`}>
